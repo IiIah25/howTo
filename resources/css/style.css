@@ -32,6 +32,8 @@ color: #c9af98;
 text-decoration: none;
 padding: 20px;
 border: 5px outset #845007; 
+border-radius: 7px;
+transition-duration: .3s;
 }
 
 a:hover {
