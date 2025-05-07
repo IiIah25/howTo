@@ -12,13 +12,13 @@ h1 {
 
 h2 {
     font-size: 1.5rem;
-    color: #274B1A;
+    color: #3a4660;
     padding: 20px;
 }
 
 h3 {
     font-size: 1.3rem;
-    color: #4C753D;
+    color: #845007;
     padding: 20px;
 }
 
@@ -27,9 +27,9 @@ nav {
 ]
 
 a {
-background-color: #CDF5BF;
-color: #7BA06E;
+background-color: #3a4660;
+color: #c9af98;
 text-decoration: none;
 padding: 20px;
-border: 2px solid #7BA06E; 
+border: 2px solid #845007; 
 }
